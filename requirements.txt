@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+seaborn
+tensorflow
+scikit-learn
+flask
+flask-cors
+requests
+streamlit
+plotly
+alpha_vantage
+yfinance
